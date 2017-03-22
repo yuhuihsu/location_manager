@@ -1,0 +1,4 @@
+bool execute
+---
+LocationArray locationArray
+bool result
